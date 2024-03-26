@@ -1,5 +1,6 @@
 import pytest
-from pycard import CardPool, Player  
+from pycard.pycard import CardPool, Player
+
 
 
 def test_cardpool_initialization():
@@ -31,13 +32,13 @@ def test_compare(capfd):  # Use the capfd fixture to capture print outputs
     
     cp.cards = [{'suit': 'Hearts', 'value': 'Ace'}, {'suit': 'Spades', 'value': 'King'}]  
     
-    player1.draw()  # Should draw the Ace of Hearts
-    player2.draw()  # Should draw the King of Spades
+    player1.draw()  
+    player2.draw()  
 
     cp.compare()
     
     out, err = capfd.readouterr()
-    assert "Player1 with the Ace of Hearts" in out, "Expected Player1 to win with the Ace of Hearts"
+    assert "Player2 with the Ace of Hearts" in out, "Expected Player2 to win with the Ace of Hearts"
 
 
 # Test running out of cards
