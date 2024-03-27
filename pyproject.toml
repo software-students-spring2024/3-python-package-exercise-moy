@@ -13,9 +13,10 @@ license = { file = "LICENSE" }
 readme = "README.md"
 keywords = ["python", "package", "build", "tutorial"]
 requires-python = ">=3.7"
+
 classifiers = [
     "Programming Language :: Python :: 3",
-    "Intended Audience :: Topic :: Games/Entertainment",
+    "Intended Audience :: Developers",      "Topic :: Games/Entertainment",
     "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
     "Operating System :: OS Independent",
 ]
