@@ -80,13 +80,13 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
-## Team Members
+## Team Members of Group Moy
 
-[Zhengyang (Michael) Han](https://github.com/Hmic1102)
+[Zhengyang (**M**ichael) Han](https://github.com/Hmic1102) 
 
-[Jinqiao (Oliver) Cheng](https://github.com/jinqiaocheng163)
+[Jinqiao (**O**liver) Cheng](https://github.com/jinqiaocheng163)
 
-[Yiwen Yin](https://github.com/YY35n)
+[**Y**iwen Yin](https://github.com/YY35n)
 
 
 
