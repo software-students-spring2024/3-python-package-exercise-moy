@@ -21,16 +21,25 @@ how a developer who wants to import your project into their own code can do so -
 #### A class representing a deck of 52 playing cards, including functionalities for shuffling, drawing cards, and comparing card values.
 #### __init__()
 ```python
-import numpy as np
+Board1 = CardPool()
 ```
 #### Initializes a shuffled deck of cards.
 #### newPlayer() -> Player
 #### Adds a new player to the game and returns a Player object.
+```python
+Jerry = Board1.newPlayer()
+```
 #### draw() -> dict
 #### Draws a card from the deck. Raises an exception if the deck is empty.
+```python
+Jerry.draw()
+```
 #### Returns: A dictionary representing a card with suit and value.
 #### compare()
 #### Compares the latest drawn cards among all players and prints the winner.
+```python
+Board1.compare()
+```
 #### Player
 #### Represents a player in the game, capable of drawing cards from the deck.
 #### __init__(pool: CardPool)
