@@ -10,17 +10,17 @@
 ####   
 ```
 3-python-package-exercise-moy/
-- ├── src/
-- │   └── pycard/
-- │       ├── __init__.py
-- │       └── pycard.py
-- └── tests/
--     ├── __init__.py
--     └── testcards.py
-- |____README.md
-- |____LICENSE
-- |____pyproject.toml
-- |____tests
+ ├── src/
+ │   └── pycard/
+ │       ├── __init__.py
+ │       └── pycard.py
+ └── tests/
+     ├── __init__.py
+     └── testcards.py
+ |____README.md
+ |____LICENSE
+ |____pyproject.toml
+ |____tests
 ```
 ## Functionalities
 
