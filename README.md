@@ -82,9 +82,9 @@ pip install -r requirements.txt
 ```
 ## Team Members of Group Moy
 
-[Zhengyang (**M**ichael) Han](https://github.com/Hmic1102) 
+[**M**ichael (Zhengyang) Han](https://github.com/Hmic1102) 
 
-[Jinqiao (**O**liver) Cheng](https://github.com/jinqiaocheng163)
+[**O**liver (Jinqiao) Cheng](https://github.com/jinqiaocheng163)
 
 [**Y**iwen Yin](https://github.com/YY35n)
 
