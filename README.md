@@ -70,7 +70,7 @@ python -m venv venv
 source venv/bin/activate
 ```
 ```bash
-pip install -r requirements.txt
+pip install -i https://test.pypi.org/simple/ pycard==0.0.9
 ```
 ## Team Members of Group Moy
 
