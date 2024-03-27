@@ -21,8 +21,8 @@ how a developer who wants to import your project into their own code can do so -
 #### A class representing a deck of 52 playing cards, including functionalities for shuffling, drawing cards, and comparing card values.
 #### __init__()
 ```python
-import
-```python
+import numpy as np
+```
 #### Initializes a shuffled deck of cards.
 #### newPlayer() -> Player
 #### Adds a new player to the game and returns a Player object.
