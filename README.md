@@ -82,11 +82,13 @@ pip install -r requirements.txt
 ```
 ## Team Members
 
-[Jinqiao Cheng](https://github.com/jinqiaocheng163)
+[Zhengyang (Michael) Han](https://github.com/Hmic1102)
+
+[Jinqiao (Oliver) Cheng](https://github.com/jinqiaocheng163)
 
 [Yiwen Yin](https://github.com/YY35n)
 
-[Zhengyang Han](https://github.com/Hmic1102)
+
 
 ## Link to PyPl Page
 
