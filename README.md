@@ -82,7 +82,7 @@ pip install -r requirements.txt
 
 [Jinqiao Cheng](https://github.com/jinqiaocheng163)
 
-[Yinyi Wen](https://github.com/YY35n)
+[Yiwen Yin](https://github.com/YY35n)
 
 [Zhengyang Han](https://github.com/Hmic1102)
 
