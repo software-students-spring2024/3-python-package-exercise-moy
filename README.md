@@ -30,8 +30,15 @@
   - Ace > King > Queen ... > 3 > 2 
   - ♠️ > ♦️ > ♥️ > ♣️
 ## Installation
+#### Install
+```bash
+pip install -i https://test.pypi.org/simple/ pycard==0.0.9
+```
+#### Import
+```python
+from pycard.pycard import CardPool, Player
+```
 
-how a developer who wants to import your project into their own code can do so - include documentation for all functions in your package and a link to an example Python program that uses each of them.
 #### CardPool()
 #### A class representing a deck of 52 playing cards, including functionalities for shuffling, drawing cards, and comparing card values.
 
@@ -56,13 +63,6 @@ Jerry.draw()
 Board1.compare()
 ```
 
-#### Player
-#### Represents a player in the game, capable of drawing cards from the deck.
-#### __init__(pool: CardPool)
-#### Associates the player with a specific CardPool.
-#### draw() -> dict
-#### Draws a card for the player from the associated CardPool.
-#### Returns: A dictionary representing the drawn card.
 
 ## Contribution
 
@@ -77,7 +77,7 @@ python -m venv venv
 source venv/bin/activate
 ```
 ```bash
-pip install -r requirements.txt
+pip install -i https://test.pypi.org/simple/ pycard==0.0.9
 ```
 ## Team Members of Group Moy
 
@@ -91,3 +91,4 @@ pip install -r requirements.txt
 
 ## Link to PyPl Page
 
+[Pycard](https://test.pypi.org/project/pycard/0.0.9/)
