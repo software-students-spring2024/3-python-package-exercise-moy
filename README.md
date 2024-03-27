@@ -20,7 +20,6 @@
  |____README.md
  |____LICENSE
  |____pyproject.toml
- |____tests
 ```
 ## Functionalities
 
