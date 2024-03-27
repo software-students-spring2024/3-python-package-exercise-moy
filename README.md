@@ -8,7 +8,7 @@
 
 
 ####   3-python-package-exercise-moy/
--- ├── src/
+- ├── src/
 -- │   └── pycard/
 -- │       ├── __init__.py
 -- │       └── pycard.py
