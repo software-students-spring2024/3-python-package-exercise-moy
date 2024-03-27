@@ -30,8 +30,15 @@
   - Ace > King > Queen ... > 3 > 2 
   - ♠️ > ♦️ > ♥️ > ♣️
 ## Installation
+#### Install
+```bash
+pip install -i https://test.pypi.org/simple/ pycard==0.0.9
+```
+#### Import
+```python
+from pycard.pycard import CardPool, Player
+```
 
-how a developer who wants to import your project into their own code can do so - include documentation for all functions in your package and a link to an example Python program that uses each of them.
 #### CardPool()
 #### A class representing a deck of 52 playing cards, including functionalities for shuffling, drawing cards, and comparing card values.
 
