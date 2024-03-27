@@ -69,7 +69,7 @@ Board1.compare()
 
 #### We welcome contributions! That's how it can be done:
 ```bash
-git clone https://github.com/your-github/pycard.git
+git clone https://github.com/software-students-spring2024/3-python-package-exercise-moy.git
 ```
 ```basg
 python -m venv venv
