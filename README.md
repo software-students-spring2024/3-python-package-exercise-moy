@@ -4,14 +4,14 @@
 
 ## PyCard: A Simple Python Card Game Library
 
-### PyCard is a lightweight, easy-to-use Python package designed to simulate card games. It provides basic functionalities such as creating a deck of cards, shuffling, drawing cards, and comparing card values and suits between players.
+#### PyCard is a lightweight, easy-to-use Python package designed to simulate card games. It provides basic functionalities such as creating a deck of cards, shuffling, drawing cards, and comparing card values and suits between players.
 
 ## Functionalities
 
-### Deck creation with standard 52 playing cards.
-### Shuffle the deck and draw cards.
-### Support for multiple players.
-### Card comparison based on value and suit.
+#### Deck creation with standard 52 playing cards.
+#### Shuffle the deck and draw cards.
+#### Support for multiple players.
+#### Card comparison based on value and suit.
 
 ## Installation
 
