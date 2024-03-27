@@ -36,18 +36,18 @@ Returns: A dictionary representing the drawn card.
 
 ## Contribution
 
-#### We welcome contributions! That's how it can be done:
+We welcome contributions! That's how it can be done:
 
-#### git clone https://github.com/your-github/pycard.git
-#### python -m venv venv
-#### source venv/bin/activate
-#### pip install -r requirements.txt
+git clone https://github.com/your-github/pycard.git
+python -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
 
 ## Team Members
 
-#### Jinqiao Cheng       https://github.com/jinqiaocheng163
-#### Yinyi Wen           https://github.com/YY35n
-#### Zhengyang Han       https://github.com/Hmic1102
+Jinqiao Cheng       https://github.com/jinqiaocheng163
+Yinyi Wen           https://github.com/YY35n
+Zhengyang Han       https://github.com/Hmic1102
 
 ## Link to PyPl Page
 
