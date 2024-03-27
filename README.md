@@ -20,6 +20,7 @@
 #### |____pyproject.toml
 #### |____tests
 
+
 ## Functionalities
 
 #### Deck creation with standard 52 playing cards.
