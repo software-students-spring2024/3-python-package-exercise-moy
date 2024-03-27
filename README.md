@@ -7,18 +7,19 @@
 #### PyCard is a lightweight, easy-to-use Python package designed to simulate card games. It provides basic functionalities such as creating a deck of cards, shuffling, drawing cards, and comparing card values and suits between players.
 
 
-####   3-python-package-exercise-moy/
+####   
+3-python-package-exercise-moy/
 - ├── src/
--- │   └── pycard/
--- │       ├── __init__.py
--- │       └── pycard.py
--- └── tests/
---     ├── __init__.py
---     └── testcards.py
--- |____README.md
--- |____LICENSE
--- |____pyproject.toml
--- |____tests
+- │   └── pycard/
+- │       ├── __init__.py
+- │       └── pycard.py
+- └── tests/
+-     ├── __init__.py
+-     └── testcards.py
+- |____README.md
+- |____LICENSE
+- |____pyproject.toml
+- |____tests
 
 ## Functionalities
 
