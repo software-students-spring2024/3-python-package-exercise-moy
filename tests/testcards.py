@@ -2,7 +2,6 @@ import pytest
 from pycard.pycard import CardPool, Player
 
 
-
 def test_cardpool_initialization():
     cp = CardPool()
     assert len(cp.cards) == 52, f"Expected to get 52, but it returned{len(cp.cards)}"
