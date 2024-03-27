@@ -53,8 +53,14 @@ Board1.compare()
 #### We welcome contributions! That's how it can be done:
 ```bash
 git clone https://github.com/your-github/pycard.git
+```
+```basg
 python -m venv venv
+```
+```bash
 source venv/bin/activate
+```
+```bash
 pip install -r requirements.txt
 ```
 ## Team Members
