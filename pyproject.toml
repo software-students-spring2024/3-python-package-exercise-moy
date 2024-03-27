@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "pycard"
 description = "An card game package developed with pyenv, built with build using setuptools, uploaded to PyPI using twine, and distributed via pip."
-version = "0.1.0"
+version = "1.0.0"
 authors = [
   { name="jinqiaocheng163", email="joc297@nyu.edu" }, { name="YY35n", email="yy3401@nyu.edu" }, { name="Hmic1102", email="zh2033@nyu.edu" }
 ]
