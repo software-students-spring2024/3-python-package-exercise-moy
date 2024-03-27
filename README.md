@@ -8,6 +8,7 @@
 
 
 ####   
+```
 3-python-package-exercise-moy/
 - ├── src/
 - │   └── pycard/
@@ -20,7 +21,7 @@
 - |____LICENSE
 - |____pyproject.toml
 - |____tests
-
+```
 ## Functionalities
 
 #### Deck creation with standard 52 playing cards.
