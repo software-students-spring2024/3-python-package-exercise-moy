@@ -56,13 +56,6 @@ Jerry.draw()
 Board1.compare()
 ```
 
-#### Player
-#### Represents a player in the game, capable of drawing cards from the deck.
-#### __init__(pool: CardPool)
-#### Associates the player with a specific CardPool.
-#### draw() -> dict
-#### Draws a card for the player from the associated CardPool.
-#### Returns: A dictionary representing the drawn card.
 
 ## Contribution
 
@@ -91,3 +84,4 @@ pip install -r requirements.txt
 
 ## Link to PyPl Page
 
+[Pycard](https://test.pypi.org/project/pycard/0.0.9/)
