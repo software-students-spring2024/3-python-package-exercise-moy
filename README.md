@@ -12,7 +12,8 @@
 #### Shuffle the deck and draw cards.
 #### Support for multiple players.
 #### Card comparison based on value and suit.
-
+-- Ace > King > Queen ... > 3 > 2
+--  ♠️ > ♦️ > ❤️ > ♣️
 ## Installation
 
 how a developer who wants to import your project into their own code can do so - include documentation for all functions in your package and a link to an example Python program that uses each of them.
