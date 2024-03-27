@@ -32,7 +32,7 @@
 ## Installation
 #### Install
 ```bash
-pip install -i https://test.pypi.org/simple/ pycard==0.0.9
+pip install -i https://test.pypi.org/simple/ pycard
 ```
 #### Import
 ```python
@@ -77,7 +77,7 @@ python -m venv venv
 source venv/bin/activate
 ```
 ```bash
-pip install -i https://test.pypi.org/simple/ pycard==0.0.9
+pip install -i https://test.pypi.org/simple/ pycard
 ```
 ## Team Members of Group Moy
 
