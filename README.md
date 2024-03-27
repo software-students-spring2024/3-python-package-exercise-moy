@@ -32,7 +32,7 @@
 ## Installation
 #### Install
 ```bash
-pip install -i https://test.pypi.org/simple/ pycard==0.0.9
+pip install -i https://test.pypi.org/simple/ pycard==0.1.0
 ```
 #### Import
 ```python
@@ -77,7 +77,7 @@ python -m venv venv
 source venv/bin/activate
 ```
 ```bash
-pip install -i https://test.pypi.org/simple/ pycard==0.0.9
+pip install -i https://test.pypi.org/simple/ pycard==0.1.0
 ```
 ## Team Members of Group Moy
 
@@ -91,4 +91,4 @@ pip install -i https://test.pypi.org/simple/ pycard==0.0.9
 
 ## Link to PyPl Page
 
-[Pycard](https://test.pypi.org/project/pycard/0.0.9/)
+[Pycard](https://test.pypi.org/project/pycard/0.1.0/)
