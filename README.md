@@ -20,6 +20,9 @@ how a developer who wants to import your project into their own code can do so -
 #### CardPool
 #### A class representing a deck of 52 playing cards, including functionalities for shuffling, drawing cards, and comparing card values.
 #### __init__()
+```python
+import
+```python
 #### Initializes a shuffled deck of cards.
 #### newPlayer() -> Player
 #### Adds a new player to the game and returns a Player object.
